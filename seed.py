@@ -4,8 +4,8 @@ from datetime import datetime, timedelta, timezone
 
 from werkzeug.security import generate_password_hash
 
-DEMO_CUSTOMER = "12345678"
-DEMO_PASSWORD = "Demo2026!"
+DEMO_CUSTOMER = "990303"
+DEMO_PASSWORD = "0275"
 
 
 def uid():
